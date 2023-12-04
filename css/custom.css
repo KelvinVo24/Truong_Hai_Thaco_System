@@ -1,0 +1,19 @@
+.img img{
+    border: 1px solid black;
+    position: absolute;
+    top: 25%;
+}
+
+.submit{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 76%;
+}
+
+body{
+    background: rgb(12,8,78);
+    background: linear-gradient(95deg, rgba(12,8,78,1) 0%, rgba(25,25,147,1) 52%, rgba(0,255,231,1) 100%);
+}
